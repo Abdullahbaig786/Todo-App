@@ -1,0 +1,26 @@
+/* body {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+.list-group-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.list-group-item .delete-btn,
+.list-group-item .edit-btn {
+  background: none;
+  border: none;
+  color: #dc3545;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.list-group-item .edit-btn {
+  color: #007bff;
+} */
